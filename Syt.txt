@@ -1,4 +1,6 @@
 Git ist cool weil ich kann mit anderen Leuten arbeiten die keine Ahnung haben
 Git ist auch für mich cool
+<<<<<<< HEAD
 Git mein Name ist Christoph
 Git mein Name ist Jakub
+
