@@ -5,3 +5,5 @@ Git mein Name ist Christoph
 Git mein Name ist Jakub
 Git mein Name ist Sprenger
 Alexander
+
+GitHub ist sehr empfehlenswert von Lukas
